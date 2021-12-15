@@ -1,0 +1,15 @@
+
+    Directory: C:\Users\gauba\CD\Python\Flask_mysql\Belt_review
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        12/13/2021  12:15 PM                flask_app     
+-a----        12/13/2021   3:49 PM            178 Pipfile       
+-a----        12/13/2021   3:49 PM          15287 Pipfile.lock  
+-a----        12/14/2021  12:35 PM           8207 recipes_review.mwb
+-a----        12/14/2021  12:35 PM           8207 recipes_review.mwb.bak
+-a----        12/13/2021   5:05 PM             44 recipes_review.sql
+-a----        12/14/2021   5:23 PM              0 requirements.txt
+-a----        12/13/2021   5:41 PM           1951 schema.sql    
+-a----        12/13/2021   5:58 PM            132 server.py  
